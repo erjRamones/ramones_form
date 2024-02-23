@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    background-color: #2E8BC0;
+}
+
+.flex-container {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 450px;
+    height: 450px;
+    margin-top: 100px;
+    margin-left: 450px;
+    background-color: #B1D4E0;
+}
+
+.font {
+    font-family: "Poppins", sans-serif;
+}
+
+.flex-container1 {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    width: 450px;
+    height: 350px;
+    margin-top: 150px;
+    margin-left: 450px;
+    background-color: #B1D4E0;
+}
+
+.flex-container2 {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+
+.marginleft {
+    margin-left: 15px;
+}
+
+.padding {
+    padding: 16px;
+}
+
+.margin {
+    margin: 16px;
+}
+
+.margin1 {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.size {
+    width: 13rem;
+}
+
+.size1 {
+    width: 14rem;
+}
+
+.borderstyle {
+    border: 5px ridge #B1D4E0;
+    box-shadow: 10px 10px #0C2D48;
+    padding: 20px;
+}
+
+.borderradius {
+    border-radius: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.divcenter {
+    border: 10px ridge;
+}
+
+.buttonsize {
+    width: 80px;
+    height: 30px;
+}
+
+.buttonsize1 {
+    width: 14rem;
+    height: 30px;
+}
